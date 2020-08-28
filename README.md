@@ -18,7 +18,7 @@ pip install -r requirements.txt
 # Note that it takes time for the first time because Keras downloads the VGG weights.
 python offline.py
 
-# Now you can do the search via localhost:5000
+# Now you can do the search via http://127.0.0.1:5000/
 python server.py
 ```
 
