@@ -9,7 +9,7 @@
 ## Usage
 ```bash
 git clone https://github.com/Pooja-Lokesh/Image_based_search_engine
-
+cd Image_based_search_engine
 pip install -r requirements.txt
 
 # Put your image files (*.jpg) on static/img
